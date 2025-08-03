@@ -1,6 +1,6 @@
 # Libft
 
-<img src="https://pbs.twimg.com/media/FfrpflDXoAUGJ6y?format=jpg&name=4096x4096" width="400" />
+![Libft Banner](https://pbs.twimg.com/media/FfrpflDXoAUGJ6y?format=jpg&name=4096x4096)
 
 ## About the Project
 
