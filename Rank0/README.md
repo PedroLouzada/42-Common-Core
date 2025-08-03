@@ -1,6 +1,6 @@
 # Libft
 
-![Libft Banner](https://media1.tenor.com/m/IVh7YxGaB_4AAAAC/nerd-emoji.gif)
+<img src="https://pbs.twimg.com/media/FfrpflDXoAUGJ6y?format=jpg&name=4096x4096" width="400" />
 
 ## About the Project
 
