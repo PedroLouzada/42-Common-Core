@@ -63,5 +63,4 @@ Contact
 
 If you want to get in touch, feel free to reach out:
 
-GitHub
-Email
+[GitHub](https://github.com/PedroLouzada)
