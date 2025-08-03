@@ -60,7 +60,7 @@ ft_printf was an essential step in mastering C programming, helping me understan
 
 Feel free to explore and improve this implementation. Happy coding! 🎉
 
-
+## Contact
 If you want to get in touch, feel free to reach out:
 
 [GitHub](https://github.com/PedroLouzada)
