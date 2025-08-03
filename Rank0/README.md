@@ -70,4 +70,3 @@ If you want to get in touch, feel free to reach out:
 
 [GitHub](https://github.com/PedroLouzada)
 
-[Email](mailto:pedrolouzada17@gmail.com)
