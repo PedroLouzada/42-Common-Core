@@ -68,6 +68,4 @@ Feel free to explore, learn, and build upon this foundation. Happy coding! 🚀
 
 If you want to get in touch, feel free to reach out:
 
-# GitHub: [PedroLouzada](https://github.com/PedroLouzada)
-
-# Email: pedrolouzada17@gmail.com
+[GitHub](https://github.com/PedroLouzada) [Email](mailto:pedrolouzada17@gmail.com)
