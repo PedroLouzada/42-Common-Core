@@ -38,7 +38,7 @@ if (line)
     free(line);
 }
 ```
-No compilation scripts or libraries are provided; just compile together with your other sources.
+No compilation scripts or libraries are provided, just compile together with your other sources.
 ## Future Improvements
 
 - Add support for bonus features (like multiple file descriptors).
