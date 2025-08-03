@@ -18,6 +18,7 @@ The goal was to reimplement commonly used functions like string manipulation, me
 - Understood error handling and edge cases in practical scenarios.
 - Improved my debugging skills with Valgrind and GDB.
 - Gained experience working with Makefiles and automated testing.
+- Learned the basics of linked lists and data structures through the bonus part.
 
 ---
 
@@ -28,6 +29,7 @@ The goal was to reimplement commonly used functions like string manipulation, me
 - Memory functions: `ft_memset`, `ft_bzero`, `ft_memcpy`, `ft_memmove`, `ft_memchr`, `ft_calloc`
 - Conversion and case: `ft_atoi`, `ft_toupper`, `ft_tolower`
 - Additional utilities: `ft_substr`, `ft_strjoin`, `ft_strtrim`, `ft_split`, `ft_itoa`, `ft_strmapi`, `ft_striteri`
+- **Bonus (linked lists):** `ft_lstnew`, `ft_lstadd_front`, `ft_lstsize`, `ft_lstlast`, `ft_lstadd_back`, `ft_lstdelone`, `ft_lstclear`, `ft_lstiter`, `ft_lstmap`
 
 ---
 
@@ -66,6 +68,6 @@ Feel free to explore, learn, and build upon this foundation. Happy coding! 🚀
 
 If you want to get in touch, feel free to reach out:
 
-GitHub: PedroLouzada
+# GitHub: [PedroLouzada](https://github.com/PedroLouzada)
 
-Email: pedrolouzada17@gmail.com
+# Email: pedrolouzada17@gmail.com
