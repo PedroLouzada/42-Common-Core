@@ -59,7 +59,7 @@ This will create the static library `libfprintf.a`. You just need to include the
 ft_printf was an essential step in mastering C programming, helping me understand variadic functions and advanced string handling at a deeper level. It paved the way for more complex projects and strengthened my problem-solving skills.
 
 Feel free to explore and improve this implementation. Happy coding! 🎉
-Contact
+
 
 If you want to get in touch, feel free to reach out:
 
