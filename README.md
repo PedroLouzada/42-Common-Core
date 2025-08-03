@@ -10,7 +10,7 @@ This repository is where I organize all my assignments and projects from the 42 
 
 | Folder    | Description                      |
 |-----------|---------------------------------|
-| `Rank0/Libft` | My implementation of the Libft project — Creating my own lib!                   |
+| `Rank0      ` | My implementation of the Libft project — Creating my own lib!                   |
 | `Rank1`       | Here you will find my implementation of Printf and get_next_line.               |
 | `Rank2`       | In this rank I chose to do Push_swap, So_long (current) and Pipex(not done yet).|
 
@@ -28,4 +28,4 @@ If you want to connect or collaborate, check out my [GitHub profile](https://git
 
 ---
 
-![nerdy]([https://i.imgur.com/abc123.gif](https://tenor.com/bLLxn.gif))
+![nerdy](https://tenor.com/bLLxn.gif)
