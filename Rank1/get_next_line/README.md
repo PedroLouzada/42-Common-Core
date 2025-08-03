@@ -37,19 +37,17 @@ if (line)
     // use the line
     free(line);
 }
-
+```
 No compilation scripts or libraries are provided; just compile together with your other sources.
-Future Improvements
+## Future Improvements
 
-    Add support for bonus features (like multiple file descriptors).
+- Add support for bonus features (like multiple file descriptors).
+- Improve error handling and optimize buffer size.
 
-    Improve error handling and optimize buffer size.
-
-Final Thoughts
+## Final Thoughts
 
 This project was a great exercise in mastering file input handling and dynamic memory management in C. It prepared me for more advanced system programming challenges.
-Contact
 
-Feel free to reach out:
+## Contact
 
-GitHub
+[GitHub](https://github.com/PedroLouzada)
