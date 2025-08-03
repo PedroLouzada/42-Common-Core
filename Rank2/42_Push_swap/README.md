@@ -1,6 +1,6 @@
 # push_swap
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Sorting_quicksort_anim.gif" width="500" alt="Sorting Animation Banner" />
+<img src="https://miro.medium.com/v2/resize:fit:744/1*HnhUPGIafYrShJav9tkVug.png" width="600" alt="push_swap Banner" />
 
 ## About the Project
 
@@ -30,6 +30,11 @@ To solve it efficiently, I implemented a **Radix Sort** algorithm using **bitwis
 - Input validation and error handling.
 - Efficient parsing and indexing of numbers.
 - Clean and readable code organized by responsibility.
+
+---
+## Compatibility
+
+This project was developed and tested on Linux systems. It uses only allowed C standard libraries and low-level system calls.
 
 ---
 
