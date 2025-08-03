@@ -46,17 +46,15 @@ Clone the repository and compile with the provided Makefile:
 git clone https://github.com/YourUsername/ft_printf.git
 cd ft_printf
 make
+```
+This will create the static library `libfprintf.a`. You just need to include the header and use `ft_printf()` in your code.
+## Future Improvements
 
-This will create a static library libftprintf.a and an example executable test_printf to test your implementation.
-Future Improvements
+- Add support for field width, precision, and flags (-, 0, etc.)
+- Optimize performance and memory usage
+- Expand test suite for more edge cases and invalid input handling
 
-    Add support for field width, precision, and flags (-, 0, etc.)
-
-    Optimize performance and memory usage
-
-    Expand test suite for more edge cases and invalid input handling
-
-Final Thoughts
+## Final Thoughts
 
 ft_printf was an essential step in mastering C programming, helping me understand variadic functions and advanced string handling at a deeper level. It paved the way for more complex projects and strengthened my problem-solving skills.
 
