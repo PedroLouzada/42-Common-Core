@@ -1,6 +1,6 @@
 # get_next_line
 
-![get_next_line Banner](https://static2.jetpens.com/images/a/000/165/165985.jpg?auto=format&ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&chromasub=444&fm=jpg&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&usm=20&w=900&s=8991868ce62c439765e4f287a76b88bb)
+<img src="https://static2.jetpens.com/images/a/000/165/165985.jpg?auto=format&ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&chromasub=444&fm=jpg&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&usm=20&w=900&s=8991868ce62c439765e4f287a76b88bb" width="600" alt="get_next_line Banner" />
 
 ## About the Project
 
@@ -49,5 +49,6 @@ No compilation scripts or libraries are provided, just compile together with you
 This project was a great exercise in mastering file input handling and dynamic memory management in C. It prepared me for more advanced system programming challenges.
 
 ## Contact
+If you want to get in touch, feel free to reach out:
 
 [GitHub](https://github.com/PedroLouzada)
