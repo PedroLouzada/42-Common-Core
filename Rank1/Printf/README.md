@@ -1,6 +1,6 @@
 # ft_printf
 
-![ft_printf Banner](https://i0.wp.com/www.agilenative.com/wp-content/uploads/2017/01/001-Agile-Hello-World.png?fit=1745%2C1080&ssl=1)
+<img src="https://i0.wp.com/www.agilenative.com/wp-content/uploads/2017/01/001-Agile-Hello-World.png?fit=1745%2C1080&ssl=1" width="600" alt="ft_printf Banner" />
 
 ## About the Project
 
