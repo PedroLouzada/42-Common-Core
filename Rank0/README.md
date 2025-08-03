@@ -47,25 +47,25 @@ cd libft
 make
 ```
 The compiled library libft.a can be linked to your C projects.
-Future Improvements
+## Future Improvements
 
-    Add more utility functions.
+- Add more utility functions.
 
-    Improve test coverage with more edge cases.
+- Improve test coverage with more edge cases.
 
-    Explore more advanced memory management techniques.
+- Explore more advanced memory management techniques.
 
-    Refactor some functions to optimize performance.
+- Refactor some functions to optimize performance.
 
-Final Thoughts
+## Final Thoughts
 
 Libft was not just a project; it was the start of a passion for programming and problem-solving. It laid the groundwork for all the exciting challenges that followed at 42 and beyond.
 
 Feel free to explore, learn, and build upon this foundation. Happy coding! 🚀
-Contact
+## Contact
 
 If you want to get in touch, feel free to reach out:
 
-    GitHub: PedroLouzada
+GitHub: PedroLouzada
 
-    Email: pedrolouzada17@gmail.com
+Email: pedrolouzada17@gmail.com
