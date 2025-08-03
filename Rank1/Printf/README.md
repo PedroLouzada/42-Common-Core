@@ -1,44 +1,48 @@
-ft_printf
+f# ft_printf
 
-About the Project
+![ft_printf Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/C_Programming_Language_logo.svg/1200px-C_Programming_Language_logo.svg.png)
 
-ft_printf is one of the mandatory projects at 42 where I reimplemented the classic C function printf from scratch. This project deepened my understanding of variadic functions, format specifiers, and string formatting in C.
+## About the Project
 
-The goal was to create a custom version of printf that handles a subset of format specifiers with correct output formatting and returns the total number of printed characters. This required careful parsing of the format string and managing different data types dynamically.
-What I Learned
+ft_printf is one of the mandatory projects at 42 where I reimplemented the classic C function `printf` from scratch. This project deepened my understanding of variadic functions, format specifiers, and string formatting in C.
 
-    How to handle variadic arguments with stdarg.h.
+The goal was to create a custom version of `printf` that handles a subset of format specifiers with correct output formatting and returns the total number of printed characters. This required careful parsing of the format string and managing different data types dynamically.
 
-    Implementing parsing logic for format specifiers (%c, %s, %d, %i, %u, %x, %X, %p, and %%).
+---
 
-    Converting different data types to strings and formatting them properly.
+## What I Learned
 
-    Managing memory and buffers efficiently to print output.
+- How to handle variadic arguments with `stdarg.h`.
+- Implementing parsing logic for format specifiers (`%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, `%X`, and `%%`).
+- Converting different data types to strings and formatting them properly.
+- Managing memory and buffers efficiently to print output.
+- Understanding low-level I/O with `write` system call.
+- Improving code modularity and reusability.
+- Debugging complex edge cases in string formatting.
 
-    Understanding low-level I/O with write system call.
+---
 
-    Improving code modularity and reusability.
+## Features Implemented
 
-    Debugging complex edge cases in string formatting.
+- Handling of standard format specifiers:  
+  `%c` (character), `%s` (string), `%p` (pointer), `%d` and `%i` (signed integers), `%u` (unsigned integers), `%x` and `%X` (hexadecimal), `%%` (percent sign)
+- Proper output formatting with correct return values (number of characters printed)
+- Robust error handling and edge case coverage
+- No reliance on the standard `printf` or related functions — full custom implementation
 
-Features Implemented
+---
 
-    Handling of standard format specifiers:
-    %c (character), %s (string), %p (pointer), %d and %i (signed integers), %u (unsigned integers), %x and %X (hexadecimal), %% (percent sign)
-
-    Proper output formatting with correct return values (number of characters printed)
-
-    Robust error handling and edge case coverage
-
-    No reliance on the standard printf or related functions — full custom implementation
-
-Compatibility
+## Compatibility
 
 This project was developed and tested on Linux systems. It uses only allowed C standard libraries and low-level system calls.
-How to Use
+
+---
+
+## How to Use
 
 Clone the repository and compile with the provided Makefile:
 
+```bash
 git clone https://github.com/YourUsername/ft_printf.git
 cd ft_printf
 make
