@@ -45,7 +45,7 @@ Clone the repo and run `make`.
 git clone https://github.com/PedroLouzada/libft.git
 cd libft
 make
-
+```
 The compiled library libft.a can be linked to your C projects.
 Future Improvements
 
