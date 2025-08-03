@@ -27,5 +27,4 @@ Feel free to explore the folders, check out my code, and follow my progress as I
 If you want to connect or collaborate, check out my [GitHub profile](https://github.com/PedroLouzada) or reach me by email!
 
 ---
-
-![nerdy](https://tenor.com/bLLxn.gif)
+![nerdy](https://media1.tenor.com/m/IVh7YxGaB_4AAAAC/nerd-emoji.gif)
