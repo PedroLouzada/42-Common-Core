@@ -6,7 +6,7 @@
 /*   By: pbongiov <pbongiov@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/04 15:31:08 by pbongiov          #+#    #+#             */
-/*   Updated: 2025/08/04 19:19:06 by pbongiov         ###   ########.fr       */
+/*   Updated: 2025/08/04 20:07:37 by pbongiov         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,8 +17,7 @@ void map_initialize(t_game *game, char *filename)
 	int i;
 
 	i = 0;
-	game->map.height = coll_len(filename);
-	game->map.width = row_len(filename);
+	row_and_col_len(game, filename);
 	game->map.coordinate = malloc(sizeof(char *) * (game->map.height + 1));
 	if (!game->map.coordinate)
 		return;
@@ -33,21 +32,21 @@ void map_initialize(t_game *game, char *filename)
 	game->map.coordinate[game->map.height] = NULL;
 }
 
-// static void print_map(t_game *game)
-// {
-// 	int i = 0;
+static void print_map(t_game *game)
+{
+	int i = 0;
 
-// 	while (game->map.coordinate[i])
-// 	{
-// 		printf("%s", game->map.coordinate[i]);
-// 		i++;
-// 	}
-// }
+	while (game->map.coordinate[i])
+	{
+		printf("%s", game->map.coordinate[i]);
+		i++;
+	}
+}
 
 void	map_input(t_game *game, char *filename)
 {
 	int i;
-	//int j;
+	int j;
 	int fd;
 	char *s;
 
@@ -57,8 +56,7 @@ void	map_input(t_game *game, char *filename)
 	s = get_next_line(fd);
 	if (!s)
 		return;
-	printf("Getnext: %s", s);
-	/*while (i < game->map.height)
+	while (i < game->map.height)
 	{
 		j = 0;
 		while(s[j])
@@ -69,7 +67,7 @@ void	map_input(t_game *game, char *filename)
 		free(s);
 		s = get_next_line(fd);
 		i++;
-	}*/
+	}
 	close(fd);
-	//print_map(game);
+	print_map(game);
 }

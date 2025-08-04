@@ -6,7 +6,7 @@
 /*   By: pbongiov <pbongiov@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/21 17:28:23 by pbongiov          #+#    #+#             */
-/*   Updated: 2025/08/04 17:28:46 by pbongiov         ###   ########.fr       */
+/*   Updated: 2025/08/04 20:05:33 by pbongiov         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -75,8 +75,7 @@ void			print_images(t_game *game);
 void			game_start(t_game *game);
 char			*get_next_line(int fd);
 void			error_msg(void);
-int				row_len(char *filename);
-int				coll_len(char *filename);
+void			row_and_col_len(t_game *game, char *filename);
 void			map_initialize(t_game *game, char *filename);
 void			map_input(t_game *game, char *filename);
 
