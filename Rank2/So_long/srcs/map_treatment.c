@@ -6,7 +6,7 @@
 /*   By: pbongiov <pbongiov@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/04 15:31:08 by pbongiov          #+#    #+#             */
-/*   Updated: 2025/08/04 20:07:37 by pbongiov         ###   ########.fr       */
+/*   Updated: 2025/08/04 20:34:20 by pbongiov         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -70,4 +70,9 @@ void	map_input(t_game *game, char *filename)
 	}
 	close(fd);
 	print_map(game);
+}
+void map_validation(t_game *game, char *filename)
+{
+	map_input(game, filename);
+	is_rectangular(game);
 }

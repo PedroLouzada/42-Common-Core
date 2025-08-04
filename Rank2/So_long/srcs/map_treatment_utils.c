@@ -6,7 +6,7 @@
 /*   By: pbongiov <pbongiov@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/04 15:35:54 by pbongiov          #+#    #+#             */
-/*   Updated: 2025/08/04 20:06:40 by pbongiov         ###   ########.fr       */
+/*   Updated: 2025/08/04 20:33:07 by pbongiov         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,4 +41,19 @@ void row_and_col_len(t_game *game, char *filename)
 	free(s);
 	close(fd);
 	game->map.height = i;
+}
+
+void is_rectangular(t_game *game)
+{
+	int i;
+	int prev_len;
+
+	i = 0;
+	while(game->map.coordinate[i])
+	{
+		if(prev_len != ft_strlen(game->map.coordinate[i]))
+			error_msg();
+		prev_len = ft_strlen(game->map.coordinate[i]);
+		i++;
+	}
 }
