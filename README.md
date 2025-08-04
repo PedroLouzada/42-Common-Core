@@ -8,11 +8,15 @@ This repository is where I organize all my assignments and projects from the 42 
 
 ## What's inside?
 
-| Folder    | Description                      |
-|-----------|---------------------------------|
-| `Rank0      ` |                             [Libft](https://github.com/PedroLouzada/42-Libft)                   |
-| `Rank1`       | [ft_printf](https://github.com/PedroLouzada/42-Printf)  [get_next_line](https://github.com/PedroLouzada/42-Get_next_line)               |
-| `Rank2`       | [Push_swap](https://github.com/PedroLouzada/42-Push_swap)  So_long (current)  Pipex(not done yet).|
+| Rank   | Project        | Status         | Link |
+|--------|----------------|----------------|------|
+| Rank 0 | Libft          | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Libft) |
+| Rank 1 | ft_printf      | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Printf) |
+| Rank 1 | get_next_line  | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Get_next_line) |
+| Rank 2 | Push_swap      | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Push_swap) |
+| Rank 2 | So_long        | 🚧 In progress  | _No repo yet_ |
+| Rank 2 | Pipex          | ⏳ Not started  | _Coming soon_ |
+
 
 ---
 
