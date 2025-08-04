@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"so_long.h": "c",
+		"random": "c",
+		"array": "c",
+		"string_view": "c",
+		"span": "c",
+		"type_traits": "c",
+		"mlx_int.h": "c"
+	}
+}
