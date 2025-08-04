@@ -10,9 +10,9 @@ This repository is where I organize all my assignments and projects from the 42 
 
 | Folder    | Description                      |
 |-----------|---------------------------------|
-| `Rank0      ` | [Libft](https://github.com/PedroLouzada/42-Libft)                   |
-| `Rank1`       | [ft_printf](https://github.com/PedroLouzada/42-Printf) | [get_next_line](https://github.com/PedroLouzada/42-Get_next_line)               |
-| `Rank2`       | [Push_swap](https://github.com/PedroLouzada/42-Push_swap) | So_long (current) | Pipex(not done yet).|
+| `Rank0      ` |                             [Libft](https://github.com/PedroLouzada/42-Libft)                   |
+| `Rank1`       | [ft_printf](https://github.com/PedroLouzada/42-Printf)  [get_next_line](https://github.com/PedroLouzada/42-Get_next_line)               |
+| `Rank2`       | [Push_swap](https://github.com/PedroLouzada/42-Push_swap)  So_long (current)  Pipex(not done yet).|
 
 ---
 
