@@ -14,7 +14,7 @@ This repository is where I organize all my assignments and projects from the 42 
 | Rank 1 | ft_printf      | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Printf) |
 | Rank 1 | get_next_line  | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Get_next_line) |
 | Rank 2 | Push_swap      | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Push_swap) |
-| Rank 2 | So_long        | 🚧 In progress  | _No repo yet_ |
+| Rank 2 | So_long        | 🚧 In progress  | [Link](https://github.com/PedroLouzada/42-So_long) |
 | Rank 2 | Pipex          | ⏳ Not started  | _Coming soon_ |
 
 
