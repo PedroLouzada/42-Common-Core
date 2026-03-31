@@ -19,6 +19,7 @@ This repository is where I organize all my assignments and projects from the 42 
 | Rank 3 | Philosophers   | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Philosophers) |
 | Rank 3 | MiniShell      | ✅ Done         | [Link](https://github.com/PedroLouzada/42-MiniShell)|
 | Rank 4 | Cub3d          | 🚧 In progress  | _Coming soon_ |
+| Rank 4 | C++ Pscine     | 🚧 In progress  | _Coming soon_ |
 
 
 ---
