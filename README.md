@@ -20,6 +20,7 @@ This repository is where I organize all my assignments and projects from the 42 
 | Rank 3 | MiniShell      | ✅ Done         | [Link](https://github.com/PedroLouzada/42-MiniShell)|
 | Rank 4 | Cub3d          | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Cub3d) |
 | Rank 4 | C++ Pscine     | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Cpp_Pscine) |
+| Rank 5 | ft_irc         | ✅ Done         | [Link](https://github.com/PedroLouzada/42-IRC) |
 
 [//]: # (_Coming soon_ 🚧 In progress)
 ---
