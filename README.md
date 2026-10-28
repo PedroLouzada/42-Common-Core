@@ -10,18 +10,19 @@ This repository is where I organize all my assignments and projects from the 42 
 
 | Rank   | Project        | Status         | Link |
 |--------|----------------|----------------|------|
-| Rank 0   | Libft          | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Libft) |
-| Rank 1   | ft_printf      | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Printf) |
-| Rank 1   | get_next_line  | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Get_next_line) |
-| Rank 2   | Push_swap      | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Push_swap) |
-| Rank 2   | So_long        | ✅ Done         | [Link](https://github.com/PedroLouzada/42-So_long) |
-| Rank 2   | MiniTalk       | ✅ Done         | [Link](https://github.com/PedroLouzada/42-MiniTalk)|
-| Rank 3   | Philosophers   | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Philosophers) |
-| Rank 3   | MiniShell      | ✅ Done         | [Link](https://github.com/PedroLouzada/42-MiniShell)|
-| Rank 4   | Cub3d          | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Cub3d) |
-| Rank 4/5 | C++ Pscine     | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Cpp_Pscine) |
-| Rank 5   | ft_irc         | ✅ Done         | [Link](https://github.com/PedroLouzada/42-IRC) |
-| Rank 5   | Inception      | 🚧In progress🚧 | [Link](https://github.com/PedroLouzada/42-Inception) |
+| Rank 0   | Libft            | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Libft) |
+| Rank 1   | ft_printf        | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Printf) |
+| Rank 1   | get_next_line    | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Get_next_line) |
+| Rank 2   | Push_swap        | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Push_swap) |
+| Rank 2   | So_long          | ✅ Done         | [Link](https://github.com/PedroLouzada/42-So_long) |
+| Rank 2   | MiniTalk         | ✅ Done         | [Link](https://github.com/PedroLouzada/42-MiniTalk)|
+| Rank 3   | Philosophers     | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Philosophers) |
+| Rank 3   | MiniShell        | ✅ Done         | [Link](https://github.com/PedroLouzada/42-MiniShell)|
+| Rank 4   | Cub3d            | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Cub3d) |
+| Rank 4/5 | C++ Pscine       | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Cpp_Pscine) |
+| Rank 5   | ft_irc           | ✅ Done         | [Link](https://github.com/PedroLouzada/42-IRC) |
+| Rank 5   | Inception        | ✅ Done         | [Link](https://github.com/PedroLouzada/42-Inception) |
+| Rank 6   | ft_transcendence | 🚧In progress🚧 |       |
 
 [//]: # (_Coming soon_ 🚧 In progress)
 ---
